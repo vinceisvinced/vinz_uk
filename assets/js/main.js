@@ -61,7 +61,7 @@ const sendEmail = (e) =>{
 
         }, () =>{
             // Show error message
-            contactMessage.textContent = 'Error al enviar mensaje 🚨'
+            contactMessage.textContent = 'ur blocked 🚨'
         })
                 
 }
