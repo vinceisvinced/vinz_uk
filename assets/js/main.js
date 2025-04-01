@@ -61,7 +61,7 @@ const sendEmail = (e) =>{
 
         }, () =>{
             // Show error message
-            contactMessage.textContent = 'ur blocked 🚨'
+            contactMessage.textContent = 'ur ip address blocked 🚨'
         })
                 
 }
